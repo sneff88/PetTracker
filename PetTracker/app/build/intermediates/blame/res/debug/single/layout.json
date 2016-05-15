@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Student\\StudioProjects\\PetTracker\\app\\build\\intermediates\\res\\merged\\debug\\layout\\showpets.xml",
+        "source": "C:\\Users\\Student\\StudioProjects\\PetTracker\\app\\src\\main\\res\\layout\\showpets.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\StudioProjects\\PetTracker\\app\\build\\intermediates\\res\\merged\\debug\\layout\\petentry.xml",
+        "source": "C:\\Users\\Student\\StudioProjects\\PetTracker\\app\\src\\main\\res\\layout\\petentry.xml"
+    }
+]
